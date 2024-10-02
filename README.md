@@ -7,4 +7,4 @@
 - [ ] 設計出一套演算法能檢驗這兩種數據
 
 ## Reference
-1.可變電阻與LED的接法 [https://blog.jmaker.com.tw/arduino-tutorials-4/](https://blog.jmaker.com.tw/arduino-tutorials-4/)
+1.可變電阻與LED的接法:[https://blog.jmaker.com.tw/arduino-tutorials-4/](https://blog.jmaker.com.tw/arduino-tutorials-4/)
