@@ -12,4 +12,4 @@
 ## Reference
 1.可變電阻與LED的接法：[https://blog.jmaker.com.tw/arduino-tutorials-4/](https://blog.jmaker.com.tw/arduino-tutorials-4/)  
 2.改良自lucidgloves的vrgloves：[https://github.com/LucidVR/lucidgloves/tree/main?tab=readme-ov-file](https://github.com/LucidVR/lucidgloves/tree/main?tab=readme-ov-file)
-3.pytorch版openpose:[https://github.com/Hzzone/pytorch-openpose](https://github.com/Hzzone/pytorch-openpose)
+3.pytorch版openpose：[https://github.com/Hzzone/pytorch-openpose](https://github.com/Hzzone/pytorch-openpose)
