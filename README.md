@@ -1,7 +1,7 @@
 # BasketballShootingGloves
 ## Display
-![glovesDemo](./file/glove1.gif)
-![openposeDemo](./file/openpose_demo.gif)
+![glovesDemo](/file/glove1.gif)
+![openposeDemo](/file/openpose_demo.gif)
 ## Todo list
 - [x] 設計出一種模式，可以及時獲得手指運動資料
 - [x] 安裝並使用Openpose獲得影片中投籃的運動數據
